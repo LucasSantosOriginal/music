@@ -69,9 +69,8 @@ body {
 }
 
 
-/* RODAPÉ */
 
-footer {
+/* footer {
     font-family: "Atkinson Hyperlegible Mono", serif;
 
     text-align: center;
@@ -113,5 +112,4 @@ footer {
   }
   
   .social-icons .icon i {
-    font-size: 1.5em; /* Aumenta o tamanho do ícone */
-  }
+    font-size: 1.5em; /* Aumenta o tamanho do ícone */ 
