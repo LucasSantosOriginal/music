@@ -12,5 +12,11 @@ document.addEventListener('DOMContentLoaded', () => {
                 image.classList.add('visible');
             }
         });
+        window.addEventListener('load', function () {
+            const video = document.querySelector('.video-bg');
+            if (video) {
+                video.classList.add('visible');
+            }
+        });
     });
 });
